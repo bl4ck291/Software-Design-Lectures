@@ -28,7 +28,7 @@ Application is continuing to work correctly, even when things go wrong
 
 ***Failure*** - system (as a whole) stops providing the required service to the use
 
-***$\Rightarrow$ Systems we design should be fault-tolerant or resilient***
+***The Systems we design should be fault-tolerant or resilient***
 
 ### Scalability
 
