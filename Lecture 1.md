@@ -15,6 +15,9 @@
     - Scalability
     - Maintainability
 
+![image](./images/lecture1/1.jpg)
+
+
 ### Reliability
 
 Application is continuing to work correctly, even when things go wrong
@@ -33,6 +36,12 @@ Even if a system is working reliably today, that doesn't mean it will necessaril
 - One common reason for degradation is increased load. Scalability is the term we use to describe a system's ability to deal with increased load
 - Figure out and describe the key load parameters on your app, explore your system's use cases and system operations
 - How much do you need to increase the resources if you want to keep performance unchanged
+
+![image](./images/lecture1/2.jpg)
+![image](./images/lecture1/3.jpg)
+![image](./images/lecture1/4.jpg)
+![image](./images/lecture1/5.jpg)
+
 
 ### Maintainability
 
