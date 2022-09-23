@@ -1,9 +1,12 @@
+# Lecture 1
 
-# Architecture, Requirements
+## Architecture, Requirements
 
 ### Software architecture
 - high-level structure, which consists of constituent parts and the dependencies between those parts
-- set of structures needed to reason about the system, which comprise software elements, relations among them, and properties of both. Documenting Software Architectures by Bass et al.
+- set of structures needed to reason about the system, which comprise software elements, relations among them, and properties of both.
+
+***Documenting Software Architectures by Bass et al.***
 
 ***Software design*** - the process of defining architecture (according to the given and obtained system requirements)
 
